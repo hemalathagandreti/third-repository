@@ -1,2 +1,2 @@
 # third-repository
-learning GitHub with DevOps
+This is the basic idea for a Student Portal application.
